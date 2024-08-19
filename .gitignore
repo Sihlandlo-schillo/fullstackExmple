@@ -1,0 +1,4 @@
+# files I want github to ignore
+
+node_modules
+.env
